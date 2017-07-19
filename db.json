@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sunny Days",
+      "categories": "Weather",
+      "content": "This is a world of dreams."
+    },
+    {
+      "id": 2,
+      "title": "Cloudy Days",
+      "categories": "Weather",
+      "content": "I had a bad mood."
+    },
+    {
+      "id": 3,
+      "title": "Birthday",
+      "categories": "Diary",
+      "content": "Happy birthday to you."
+    },
+    {
+      "title": "The Complete Web Developer Course 2.0",
+      "categories": "Database, HTML, CSS, JavaScript, PHP, Python, Video",
+      "content": "Learn Web Development by building 25 websites and mobile apps using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "id": 4
+    }
+  ]
+}
